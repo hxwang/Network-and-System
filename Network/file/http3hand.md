@@ -1,6 +1,6 @@
 ## TCP Three Way Handshake
 
-- Reference: [Ref1](http://www.techopedia.com/definition/10339/three-way-handshake)
+- Reference: [Ref1](http://www.techopedia.com/definition/10339/three-way-handshake), [Ref2](http://www.tcpipguide.com/free/t_TCPConnectionEstablishmentProcessTheThreeWayHandsh-3.htm)
 
 ### Intro
 - The TCP three-way handshake is the method used by TCP to set up a TCP/IP connection over an Internet Protocol based network.
