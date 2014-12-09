@@ -12,5 +12,5 @@
   - Being able to negotiate multiple TCP socket connections in both direction at the same time allows a single physical network inferface, such as ethernet, to be multiplexied to transfer multiple streams of TCP data simulteneously.
   
 ### How it works
-- [](../fig/tcp3handshake.PNG)
+- ![](../fig/tcp3handshake.PNG)
 
