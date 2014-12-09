@@ -2,4 +2,4 @@
 
 
 ### Protocol
-- [TCP-3-handshake](./file/http3hand.md)
+- [TCP 3 way handshake](./file/http3hand.md)
