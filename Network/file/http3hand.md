@@ -1,6 +1,7 @@
 ## TCP Three Way Handshake
 
 - Reference: [Ref1](http://www.techopedia.com/definition/10339/three-way-handshake)
+
 ### Intro
 - The TCP three-way handshake is the method used by TCP to set up a TCP/IP connection over an Internet Protocol based network.
 - It is a three-step method that requires both the client and server to exchange SYN and ACK.
